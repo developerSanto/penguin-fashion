@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navlogo{
+    width: 200px;
+}
+.baner{
+    background-color: #FFFBF0;;
+}
+.winter{
+    margin-top: -35px;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+}
+.bannerImg{
+    width: 100%;
+}
+.buynow{
+    background-color: #97B033;
+    height: 60px;
+    width: 170px;
+    left: 135px;
+    top: 424px;
+    border-radius: 10px;
+    color:white;
+
+}
