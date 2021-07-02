@@ -4,9 +4,10 @@ body{
 
 .navlogo{
     width: 200px;
+
 }
 .baner{
-    background-color: #FFFBF0;;
+    background-color: #FFFBF0;
 }
 .winter{
     margin-top: -35px;
@@ -25,4 +26,43 @@ body{
     border-radius: 10px;
     color:white;
 
+}
+.buynowCart{
+    background-color: #97B033;
+    height: 40px;
+    width: 150px;
+
+    border-radius: 10px;
+    color:white;
+}
+.price{
+    color:#fdba00fa;
+}
+.jacet-card {
+    border:0;
+   
+}
+.jacet-footer{
+    background-color: white;
+    border:0;
+}
+.shipping-card{
+    height: 300px;
+    width: 500px;
+    
+}
+.shippingCaption{
+    margin-left: -80px;
+}
+.footer-Section{
+    background-color:#232F3E;
+    height: 220px;
+}
+.footer-text{
+    color:white;
+    font-size: 10px;
+    font-weight: 700;
+}
+.all-rights{
+    color: white;
 }
