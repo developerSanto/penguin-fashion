@@ -46,17 +46,9 @@ body{
     background-color: white;
     border:0;
 }
-.shipping-card{
-    height: 300px;
-    width: 500px;
-    
-}
-.shippingCaption{
-    margin-left: -80px;
-}
+
 .footer-Section{
     background-color:#232F3E;
-    height: 220px;
 }
 .footer-text{
     color:white;
